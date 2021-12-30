@@ -30,7 +30,7 @@ function Projectcard({project}) {
                     })}
                 </div> 
             </div>
-                <img style={{width:'40%'}} src={project.image} />
+                <img style={{width:'40%'}} src={project.image} alt='projecticon'/>
                 
             
         </div>
