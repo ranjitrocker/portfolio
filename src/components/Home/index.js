@@ -12,10 +12,10 @@ function Home() {
                 <Header/>
             </div>
             <div>
-                <Footer/>
+                <Body/>
             </div>
             <div>
-                <Body/>
+                <Footer/>
             </div>
             
         </div>

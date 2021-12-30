@@ -6,7 +6,7 @@ function About() {
         <div className='about'>
         <div className='about-top'>
             <div className='about-info'>
-                Hello There I am<br/> <span className='info-name'>Ranjit Behera</span> 
+                Hello There 👋 I am<br/> <span className='info-name'>Ranjit Behera</span> 
                 <br/>I love experiment with web.
             </div>
             <div className='about-photo'>
@@ -17,7 +17,7 @@ function About() {
         <div>
         <Socialcontact/>
         </div>
-            <div className='about-bottom'>Thia is Contacts.</div>
+            <div className='about-bottom'></div>
         </div>
     )
 }
